@@ -11,7 +11,7 @@ Later.
   
 Rules: https://github.com/hanuchu/fuiibot/blob/master/Rules.md  
 FAQ: https://github.com/hanuchu/fuiibot/blob/master/FAQ.md  
-Usage: https://github.com/hanuchu/fuiibot/blob/master/usage.md  
+Usage: https://github.com/hanuchu/fuiibot/blob/master/Usage.md  
 Commands: https://github.com/hanuchu/fuiibot/blob/master/Commands.md  
 To do list: https://github.com/hanuchu/fuiibot/blob/master/To_D.md  
 Dependencies: https://github.com/hanuchu/fuiibot/blob/master/Dependencies.md  
