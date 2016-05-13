@@ -9,11 +9,12 @@ Later.
 No, not now.  
 Later.  
   
-Rules: https://github.com/hanuchu/fuiibot/blob/master/Rules  
-FAQ: https://github.com/hanuchu/fuiibot/blob/master/FAQ  
-Usage: https://github.com/hanuchu/fuiibot/blob/master/usage  
-Commands: https://github.com/hanuchu/fuiibot/blob/master/Commands  
-To do list: https://github.com/hanuchu/fuiibot/blob/master/To_Do  
+Rules: https://github.com/hanuchu/fuiibot/blob/master/Rules.md  
+FAQ: https://github.com/hanuchu/fuiibot/blob/master/FAQ.md  
+Usage: https://github.com/hanuchu/fuiibot/blob/master/usage.md  
+Commands: https://github.com/hanuchu/fuiibot/blob/master/Commands.md  
+To do list: https://github.com/hanuchu/fuiibot/blob/master/To_D.md  
+Dependencies: https://github.com/hanuchu/fuiibot/blob/master/Dependencies.md  
 
   
 Last updated: 5/13/2016
