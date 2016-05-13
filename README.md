@@ -10,7 +10,7 @@ No, not now.
 Later.  
   
 Rules: *NA*  
-FAQ: *NA*  
+FAQ: https://github.com/hanuchu/fuiibot/blob/master/FAQ  
 Usage: https://github.com/hanuchu/fuiibot/blob/master/usage  
 Commands: *NA*  
 To do list: *NA*  
