@@ -9,4 +9,11 @@ Later.
 No, not now.  
 Later.  
   
+Rules: *NA*  
+FAQ: *NA*  
+Usage: https://github.com/hanuchu/fuiibot/blob/master/usage  
+Commands: *NA*  
+To do list: *NA*  
+
+  
 Last updated: 5/13/2016
