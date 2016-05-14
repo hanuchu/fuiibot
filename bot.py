@@ -24,7 +24,7 @@ def tweet():
 	response = twitter.upload_media(media=photo)
 
 	try:
-		twitter.update_status(status='#FutureDiaryBot #MiraiNikki #FutureDiary' + ' ', media_ids=[response['media_id']])
+		twitter.update_status(status='#fuiibot' + ' ', media_ids=[response['media_id']])
 		print 'tweeted!'
 	except TwythonError as error:
 		print error
